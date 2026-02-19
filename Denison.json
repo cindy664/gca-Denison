@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Denison University",
+    "abbreviationExternal": "Denison",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#000000",
+    "primaryBrandColor": "#C8102E",
+    "buttonColor": "#C8102E",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/denison.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/denison.png",
+    "partner_id": "001Rd00000NxLuRIAV",
+    "programName": "Denison Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "about",
+    "schoolname": "Denison University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviationExternal": "Denison",
+    "phone": "(740) 880-7773",
+    "credits": null,
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Denison University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "null",
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "null",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Denison University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "null",
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "null",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Denison University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "null",
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "null",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Denison University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "null",
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "null",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Denison University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "null",
+    "abbreviationExternal": "Denison",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "null",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 17",
+    "endDate": "August 1"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Denison Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(740) 880-7773",
+    "abbreviationExternal": "Denison"
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviationExternal": "Denison",
+    "phone": "(740) 880-7773"
+  }
+]
