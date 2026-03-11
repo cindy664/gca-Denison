@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "Denison University",
-    "abbreviationExternal": "Denison",
+    "abbreviation": "Denison",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#000000",
     "primaryBrandColor": "#C8102E",
@@ -14,7 +14,7 @@
     "programName": "Denison Global Career Accelerator",
     "termsandConditionsPolicy": null,
     "registrationMessage": "Registration is now open.",
-    "credits": null,
+    "credits": "1 Denison credits",
     "startDate": "May 17",
     "endDate": "August 1"
   },
@@ -23,9 +23,9 @@
     "schoolname": "Denison University",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": null,
-    "abbreviationExternal": "Denison",
+    "abbreviation": "Denison",
     "phone": "(740) 880-7773",
-    "credits": null,
+    "credits": "1 Denison credits",
     "programFee": null,
     "seasonYear": "Summer 2026",
     "term": "Summer",
@@ -34,18 +34,18 @@
   },
   {
     "item": "explore-tracks",
-    "credits": null,
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
     "schoolname": "Denison University",
     "trackTitle": "Digital Marketing Track",
-    "credits": "null",
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "null",
+    "courseCode1": "INTD-111",
     "seasonYear": "Summer 2026",
     "startDate": "May 17",
     "endDate": "August 1"
@@ -54,10 +54,10 @@
     "item": "coding-for-web",
     "schoolname": "Denison University",
     "trackTitle": "Web Development for Everyone Track",
-    "credits": "null",
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "null",
+    "courseCode1": "INTD-111",
     "seasonYear": "Summer 2026",
     "startDate": "May 17",
     "endDate": "August 1"
@@ -66,10 +66,10 @@
     "item": "data-analytics",
     "schoolname": "Denison University",
     "trackTitle": "Data Analytics Track",
-    "credits": "null",
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "null",
+    "courseCode1": "INTD-111",
     "seasonYear": "Summer 2026",
     "startDate": "May 17",
     "endDate": "August 1"
@@ -78,10 +78,10 @@
     "item": "coding-for-data",
     "schoolname": "Denison University",
     "trackTitle": "Coding for Data Track",
-    "credits": "null",
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "null",
+    "courseCode1": "INTD-111",
     "seasonYear": "Summer 2026",
     "startDate": "May 17",
     "endDate": "August 1"
@@ -90,10 +90,10 @@
     "item": "career-rotation",
     "schoolname": "Denison University",
     "trackTitle": "Career Rotation Track",
-    "credits": "null",
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "registrationMessage": "Registration is now open.",
-    "courseCode1": "null",
+    "courseCode1": "INTD-111",
     "seasonYear": "Summer 2026",
     "startDate": "May 17",
     "endDate": "August 1"
@@ -103,12 +103,12 @@
     "programName": "Denison Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(740) 880-7773",
-    "abbreviationExternal": "Denison"
+    "abbreviation": "Denison"
   },
   {
     "item": "begin",
-    "credits": null,
-    "abbreviationExternal": "Denison",
+    "credits": "1 Denison credits",
+    "abbreviation": "Denison",
     "phone": "(740) 880-7773"
   }
 ]
